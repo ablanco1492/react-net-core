@@ -1,0 +1,28 @@
+{
+    "extends": ["eslint:recommended", "plugin:react/recommended"],
+    "plugins": [
+        "react",
+        "babel"
+    ],
+    "parser": "babel-eslint",
+	"parserOptions": {
+		"ecmaVersion": 6,
+		"sourceType ": "module",
+		"ecmaFeatures": {
+			"jsx": true,
+			"experimentalObjectRestSpread": true
+		}
+	},
+    "rules": {
+        "indent": [2, "tab"],
+        "react/jsx-indent-props": [2, "tab"],
+        "react/jsx-indent": [2, "tab"],
+        "linebreak-style": "off",
+        "react/display-name": "off",
+        "react/prop-types": [2, {"ignore": ["children"]}]
+    },
+    "globals": {
+        "document": true,
+        "window": true
+    }
+}

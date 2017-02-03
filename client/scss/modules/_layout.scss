@@ -1,0 +1,54 @@
+.page-title {
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+
+.page-search-header {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 30px;
+    
+	&.center {
+    	align-items: flex-start;
+    }
+
+    &.flex-end {
+    	align-items: flex-end;
+    }
+ }
+
+ .modal-button {
+ 	margin-left: 15px;
+ }
+
+@include bp-over-lg {
+	.container {
+		width: 901px !important;
+	}
+}
+
+@include bp-lg {
+	.container {
+		width: 100% !important;
+	}
+}
+
+@include bp-xs {
+	.page-search-header {
+		flex-direction: column-reverse;
+		justify-content: center;
+		align-items: center;
+
+		&.flex-start {
+			align-items: center;
+		}
+
+		&.flex-end {
+			align-items: center;
+		}
+
+		&  :last-child {
+			margin-bottom: 15px;
+		}
+	}
+}

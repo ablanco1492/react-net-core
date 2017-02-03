@@ -1,0 +1,82 @@
+[
+  {
+    "id": "584f7c56410c503506c3bb6c",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "name": "Vicky",
+    "lastname": "Kelly",
+    "email": "fake_email@gmail.com"
+  },
+  {
+    "id": "584f7c569401a01a46936e4b",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Elizabeth",
+    "lastname": "Wiggins",
+    "email": "fake_email@gmail.com"
+  },
+  {
+    "id": "584f7c5623512721f03f06c1",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "name": "Lucinda",
+    "lastname": "Adams",
+    "email": "fake_email@gmail.com"
+  },
+  {
+    "id": "584f7c56b2783c90f98cd2ad",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "name": "Singleton",
+    "lastname": "Franklin",
+    "email": "fake_email@gmail.com"
+  },
+  {
+    "id": "584f7c566b911405323b8664",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Lola",
+    "lastname": "Mills",
+    "email": "fake_email@gmail.com"
+  },
+  {
+    "id": "584f7c56424bcb4d93ef594d",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Jennings",
+    "lastname": "Finch",
+    "email": "fake_email@gmail.com"
+  },
+  {
+    "id": "584f7c565de75053289ca446",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Wilder",
+    "lastname": "Booker",
+    "email": "fake_email@gmail.com"
+  },
+  {
+    "id": "584f7c562b0fcfea25aaa1db",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "name": "Theresa",
+    "lastname": "Ochoa",
+    "email": "fake_email@gmail.com"
+  },
+  {
+    "id": "584f7c56aa2e2ae1c47af33a",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "name": "Deanne",
+    "lastname": "Parker",
+    "email": "fake_email@gmail.com"
+  },
+  {
+    "id": "584f7c56318fa843183bffb2",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "name": "Taylor",
+    "lastname": "Branch",
+    "email": "fake_email@gmail.com"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "globalDependencies": {
+    "async": "registry:dt/async#2.0.1+20160804113311",
+    "axios": "registry:dt/axios#0.9.1+20160629101425",
+    "body-parser": "registry:dt/body-parser#0.0.0+20160619023215",
+    "change-case": "registry:dt/change-case#0.0.0+20160316155526",
+    "classnames": "registry:dt/classnames#0.0.0+20160316155526",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160715232503",
+    "helmet": "registry:dt/helmet#0.0.0+20160512043842",
+    "morgan": "registry:dt/morgan#1.7.0+20160524142355",
+    "node": "registry:dt/node#6.0.0+20160807145350",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157",
+    "winston": "registry:dt/winston#0.0.0+20160417152829"
+  },
+  "dependencies": {
+    "cors": "registry:npm/cors#2.7.0+20160723033700",
+    "mime": "registry:npm/mime#1.3.0+20160723033700",
+    "mongoose": "registry:npm/mongoose#4.3.5+20160628072220"
+  }
+}
